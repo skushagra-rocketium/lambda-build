@@ -2,11 +2,12 @@
   "name": "azureuser",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "test.js",
   "dependencies": {
     "canvas": "^3.0.0-rc2"
   },
   "scripts": {
+    "check": "node test.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
